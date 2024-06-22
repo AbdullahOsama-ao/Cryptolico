@@ -1,22 +1,29 @@
 from encryptionAlgorithms import encrypt, decrypt
+from colorama import Fore, Back, init
 
 
 def test_encrypt_decrypt(plain_text, key, showSteps=False, compareFiles=False):
+	init(autoreset=True)
 	encrypted = encrypt(plain_text, key, showSteps)
 	decrypted = decrypt(encrypted, key, showSteps)
 
 	if (plain_text == decrypted):
-		print("successful testing...!")
+		print(Back.GREEN + Fore.WHITE + "successful Process...!")
+		print("======================================")
 	else:
-		print("Flag Error in the processes...!")
+		print(Back.Red + Fore.WHITE + "Flag Error in the processes...!")
 
 	if (compareFiles == True):
-		print("Encyrpted Message Is:\n", encrypted, "\n")
-		print("Decrypted Message Is:\n", decrypted, "\n")
+		print(Back.BLUE + Fore.WHITE + "Encyrpted Message Is:")
+		print(encrypted)
+		print("======================================")
+		print(Back.BLUE + Fore.WHITE + "Decrypted Message Is:")
+		print(decrypted)
 
 
 def main_test():
 	test_encrypt_decrypt("plain_text_here", "key_here", True, True)
 
-if __name__ == "__main_test__":
+
+if __name__ == "__main__":
 	main_test()

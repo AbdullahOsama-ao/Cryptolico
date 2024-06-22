@@ -18,6 +18,8 @@ def encrypt(plain, key, showSteps=False, compareFiles=False):
         else:
             encrypted_text += char
         
+    if showSteps:
+        print("======================================")
     return encrypted_text
 
 
@@ -39,4 +41,6 @@ def decrypt(encrypted, key, showSteps=False, compareFiles=False):
         else:
             decrypted_text += char
         
+    if showSteps:
+        print("======================================")
     return decrypted_text
