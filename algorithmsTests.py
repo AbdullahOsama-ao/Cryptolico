@@ -1,24 +1,22 @@
 from encryptionAlgorithms import encrypt, decrypt
 
 
-
-def test_encrypt_decrypt(plain_text, key, showSteps=False):
+def test_encrypt_decrypt(plain_text, key, showSteps=False, compareFiles=False):
 	encrypted = encrypt(plain_text, key, showSteps)
-	print("Encyrpted Message Is : \n", encrypted)
-
-	decrypted = decrypt(encrypted, key)
-	print("Decrypted Message Is : \n", decrypted)
+	decrypted = decrypt(encrypted, key, showSteps)
 
 	if (plain_text == decrypted):
 		print("successful testing...!")
 	else:
-
 		print("Flag Error in the processes...!")
 
+	if (compareFiles == True):
+		print("Encyrpted Message Is:\n", encrypted, "\n")
+		print("Decrypted Message Is:\n", decrypted, "\n")
 
 
 def main_test():
-	result = test_encrypt_decrypt("asdlkfal;skd", "here")
+	test_encrypt_decrypt("plain_text_here", "key_here", True, True)
 
-	print(result)
-
+if __name__ == "__main_test__":
+	main_test()

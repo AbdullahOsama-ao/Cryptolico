@@ -5,7 +5,6 @@ import time
 from colorama import Fore, Back, init
 
 
-
 def clear_screen(seconds=0):
     input("Press (Enter) to Continue...!")
     if os.name == 'nt': 	# Windows system
@@ -79,6 +78,12 @@ def main():
 
 				encrypted_text = encrypt(fileContent, key)
 
+				if "Encrypted_" in fileName or "Decrypted_" in fileName: # D:\Decrypted_a.txt => fileName = Decrypted_a.txt
+					fileName = fileName[10:]
+
+				with open(f"{filePath}\Encrypted_{fileName}", 'w') as enc_file:
+					enc_file.write(encrypted_text)
+
 				# if path != f"D:\\Decrypted_{fileName}": # D:\Decrypted_a.txt => fileName = Decrypted_a.txt
 				# 	with open(f"D:\\Encrypted_{fileName[10:]}", 'w') as enc_file:
 				# 		enc_file.write(encrypted_text)
@@ -86,9 +91,9 @@ def main():
 				# else:
 				# 	with open(f"D:\\Encrypted_{fileName}", 'w') as enc_file:
 				# 		enc_file.write(encrypted_text)
-
-				with open(f"{filePath}Encrypted_File.txt", 'w') as enc_file:
-						enc_file.write(encrypted_text)
+				#-------------------------------
+				# with open(f"{filePath}Encrypted_File.txt", 'w') as enc_file:
+				# 		enc_file.write(encrypted_text)
 
 				print (Fore.BLUE + Back.BLACK + "Successful Encyrption ...!\nPick up the Encrypted File at the same Path.")
 				jump_to_choice_only = False
@@ -105,6 +110,12 @@ def main():
 					
 				decrypted_text = decrypt(fileContent, key)
 
+				if "Encrypted_" in fileName or "Decrypted_" in fileName: # D:\Encyrpted_a.txt => fileName = Encrypted_a.txt
+					fileName = fileName[10:]
+					
+				with open(f"{filePath}\Decrypted_{fileName}", 'w') as dec_file:
+					dec_file.write(decrypted_text)
+
 				# if path != f"D:\\Encrypted_{fileName}": # D:\Encyrpted_a.txt => fileName = Encrypted_a.txt
 				# 	with open(f"D:\\Decrypted_{fileName[10:]}", 'w') as dec_file:
 				# 		dec_file.write(decrypted_text)
@@ -112,9 +123,9 @@ def main():
 				# else:
 				# 	with open(f"D:\\Decrypted_{fileName}", 'w') as dec_file:
 				# 		dec_file.write(decrypted_text)
-
-				with open(f"{filePath}Decrypted_File.txt", 'w') as dec_file:
-						dec_file.write(decrypted_text)
+				#----------------------------------
+				# with open(f"{filePath}Decrypted_File.txt", 'w') as dec_file:
+				# 		dec_file.write(decrypted_text)
 						
 				print (Fore.BLUE + Back.BLACK + "Successful Decryption ...!\nIf Decryption isn't correct, make sure Password again.")
 				jump_to_choice_only = False
@@ -126,7 +137,6 @@ def main():
 			print(Back.RED + Fore.WHITE + "This File Is Not In The Path ...!")
 			jump_to_dir_detec = False
 			jump_to_file_detec = True # needing to start from detecting a file
-
 
 
 if __name__ == "__main__":
