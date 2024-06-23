@@ -9,20 +9,19 @@ def test_encrypt_decrypt(plain_text, key, showSteps=False, compareFiles=False):
 
 	if (plain_text == decrypted):
 		print(Back.GREEN + Fore.WHITE + "successful Process...!")
-		print("======================================")
 	else:
 		print(Back.Red + Fore.WHITE + "Flag Error in the processes...!")
 
 	if (compareFiles == True):
 		print(Back.BLUE + Fore.WHITE + "Encyrpted Message Is:")
 		print(encrypted)
-		print("======================================")
+
 		print(Back.BLUE + Fore.WHITE + "Decrypted Message Is:")
 		print(decrypted)
 
 
 def main_test():
-	test_encrypt_decrypt("plain_text_here", "key_here", True, True)
+	test_encrypt_decrypt("plain_text_here", "key_here", True)
 
 
 if __name__ == "__main__":
