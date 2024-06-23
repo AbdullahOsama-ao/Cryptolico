@@ -21,7 +21,7 @@ def test_encrypt_decrypt(plain_text, key, showSteps=False, compareFiles=False):
 
 
 def main_test():
-	test_encrypt_decrypt("plain_text_here", "key_here", True)
+	test_encrypt_decrypt("plain_text_here", "key_here", True, True)
 
 
 if __name__ == "__main__":
