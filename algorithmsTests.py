@@ -24,5 +24,9 @@ def main_test():
 	test_encrypt_decrypt("plain_text_here", "key_here", True, True)
 
 
+def feature_test():
+	pass
+
+
 if __name__ == "__main__":
 	main_test()
