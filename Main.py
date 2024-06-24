@@ -32,7 +32,7 @@ def main():
 			if(selector in ['1', '2', '3']):
 				if (selector == '3'):
 					print (Fore.BLUE + Back.BLACK + "Quitted ...!")
-					quit()		
+					return 0
 			else:
 				print (Back.RED + Fore.WHITE + "Selection Error, choose again ...!")
 				continue
