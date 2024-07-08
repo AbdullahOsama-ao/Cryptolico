@@ -1,7 +1,6 @@
 from encryptionAlgorithms import encrypt, decrypt
 import os
 from colorama import Fore, Back, init
-# import time
 
 
 def clear_screen(seconds=0):
