@@ -2,7 +2,6 @@ from encryptionAlgorithms import encrypt, decrypt
 from Dependencies import the_same_file, a_separated_file, save_as, non_empty_input
 import os
 from colorama import Fore, Back, init
-# import time
 
 
 def main():
