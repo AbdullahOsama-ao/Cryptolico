@@ -11,4 +11,4 @@
 
 ## How To Use:
 
-[Click here to watch the video demo](\icon\Designs Store\6. Clarification.mp4)
+Coming Soon!
