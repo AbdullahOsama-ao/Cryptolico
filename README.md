@@ -11,11 +11,4 @@
 
 ## How To Use:
 
-
-
-
-
-
-
-
-
+<video width="640" height="480" controls>   <source src="\icon\Designs Store\6. Clarification.mp4" type="video/mp4">   Your browser does not support the video tag. </video>
