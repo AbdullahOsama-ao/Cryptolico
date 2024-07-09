@@ -1,5 +1,5 @@
 # Cryptolico
-#### A simple CLI Tool for Encrypting your Textual Files.
+### A simple CLI Tool for Encrypting your Textual Files.
 
 <img src="\icon\Designs Store\4. Transparent Icon.png" alt="4. Transparent Icon" width="150" style="margin:0"> **Make Your Files Real Contents Invisible...!**
 
