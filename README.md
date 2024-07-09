@@ -10,7 +10,7 @@
 
 
 ## How To Use:
-<a href="https://youtu.be/6lIwfKneE9k?feature=shared" target="_blank">
+<a href="https://youtu.be/6lIwfKneE9k?feature=shared" target="_blank" rel="noopener noreferrer">
   <img src="/icon/Designs Store/7. Thumbanil.jpg" alt="Watch the video" width="400" height="220">
 </a>
 
