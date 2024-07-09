@@ -15,4 +15,4 @@
 </a>
 
 
-## Guide Resources
+## Guidance Resources
