@@ -11,7 +11,7 @@
 
 ## How To Use:
 <a href="https://youtu.be/6lIwfKneE9k?feature=shared" target="_blank">
-  <img src="/icon/Designs Store/7. Thumbanil.jpg" alt="Watch the video" width="400" height="250">
+  <img src="/icon/Designs Store/7. Thumbanil.jpg" alt="Watch the video" width="400" height="220">
 </a>
 
 
