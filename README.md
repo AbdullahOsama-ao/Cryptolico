@@ -10,5 +10,4 @@
 
 
 ## How To Use:
-
-Coming Soon!
+[![Watch the video](/icon/Designs Store/5. Eye)](https://youtu.be/6lIwfKneE9k?feature=shared)
