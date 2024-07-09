@@ -10,4 +10,4 @@
 
 
 ## How To Use:
-[![Watch the video](/icon/Designs Store/5. Eye)](https://youtu.be/6lIwfKneE9k?feature=shared)
+[![Watch the video](/icon/Designs Store/7. Thumbanil.jpg)](https://youtu.be/6lIwfKneE9k?feature=shared)
