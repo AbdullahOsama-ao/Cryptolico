@@ -13,3 +13,6 @@
 <a href="https://youtu.be/6lIwfKneE9k?feature=shared" target="_blank">
   <img src="/icon/Designs Store/7. Thumbanil.jpg" alt="Watch the video" width="600" height="300">
 </a>
+
+
+## Guide Resources
