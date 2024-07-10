@@ -1,6 +1,6 @@
 ## Pre-intro
 
-__Computer Systems have a huge critical value for their owners. So, it became so important to Computer Experts to find some manners to provide good protection for Systems & Data for setting them to be fit according to a concept called (CIA-Triad)... __
+__Computer Systems have a huge critical value for their owners. So, it became so important to Computer Experts to find some manners to provide good protection for Systems & Data for setting them to be fit according to a concept called (CIA-Triad)...__
 
 > ### Q1: Protection for/from what?
 
@@ -43,13 +43,13 @@ __Computer Systems have a huge critical value for their owners. So, it became so
 
 __Cryptography is a technique or tool used against unauthorized people to hide the real data from them. There are a lot of kinds of Encryption techniques used...__
 
-> __no-key-required algorithms...__
+> no-key-required algorithms...
 
 - Reverse
 - Rot13
 - Hash functions
 
-> __key-required algorithms...__
+> key-required algorithms...
 
 - Caesar
 - Mono-alphabetic
@@ -67,14 +67,14 @@ __Cryptography is a technique or tool used against unauthorized people to hide t
 
 __The main idea of it is to encrypt text using multiple substitution alphabets to increase security by making the frequency analysis of letters more difficult for cryptanalysts...__
 
-> __properties...__
+> properties...
 
 - average-strength algorithm.
 - more powerful than (mono-alphabetic algorithm) that's susceptible to frequency analysis by cryptanalysts.
 - manipulating of algorithm is more flexible.
 - easy to implement.
 
-> __poly-alphabetic types ... __
+> poly-alphabetic types ... 
 
 - Vigenère cipher
 - Autokey cipher
@@ -91,18 +91,18 @@ __The main idea of it is to encrypt text using multiple substitution alphabets t
 
 __Algorithm is used to encrypt text by shifting letters using a keyword(key), creating a polyalphabetic substitution cipher that varies the shift for each letter based on the keyword...__
 
-> __encryption mechanism...__
+> encryption mechanism...
 
 - repeating (key)  that user enters along the text that user want to encrypt(plain-text).
 - converting (key) & (plain-text) to numerical equivalent numbers according to (a=0 ~ z=25), in case of just dealing with lowercase.
 - shifting each letter of (plain-text) using a specific arithmetic equation corresponding to the (key's) value.
 - by combining each shifted letter of (plain-text), it gives you shifted-letters text called (cipher-text)
 
-> __decryption mechanism...__
+> decryption mechanism...
 
 - literally, the same encryption's steps, except that we will apply the reversed or contrary arithmetic equation that leads us to return the original text(plain-text)
 
-> __Considerations...__
+> Considerations...
 
 - using unpredictable & long key will less from potential that your data Vulnerable to frequency analysis and vice versa.
 - Performing (frequency analysis) on your data may lead to your data being Hacked after several attempts if you didn't choose the key well.
