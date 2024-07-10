@@ -16,4 +16,4 @@
 
 
 ## Guidance Resources
-- <a href="/Resources/Theoritical.md" style="font-size: larger color: red;"><h3>Theoretical<h3></a>
+- <h3><a href="/Resources/Theoritical.md" style="font-size: larger color: red;">Theoretical</a><h3>
