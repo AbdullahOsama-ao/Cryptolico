@@ -16,3 +16,4 @@
 
 
 ## Guidance Resources
+- <p><h3 style="color: red;">"\Resources\Theoritical.md"</h3> - <span style="color: red;">theoretical</span></p>
