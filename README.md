@@ -16,7 +16,4 @@
 
 
 ## Guidance Resources
-- <p><h3 style="color: red;">"\Resources\Theoritical.md"</h3> - <span style="color: red;">theoretical</span></p>
-
-```diff
-- "D:\1. GitHub\1. Practicing\1. Cryptolico\Resources\Theoritical.md"
+- <a href="/Resources/Theoritical.md" style="color: red;">Theoretical</a>
