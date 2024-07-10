@@ -91,7 +91,7 @@ __The main idea of it is to encrypt text using multiple substitution alphabets t
 
 __An algorithm is used to encrypt text by shifting letters using a keyword(key), creating a polyalphabetic substitution cipher that varies the shift for each letter based on the keyword...__
 
-> __encryption mechanism...__
+> encryption mechanism...
 
 - repeating (key)  that user enters along the text that user want to encrypt(plain-text).
 - converting (key) & (plain-text) to numerical equivalent numbers according to (a=0 ~ z=25), in case of just dealing with lowercase.
