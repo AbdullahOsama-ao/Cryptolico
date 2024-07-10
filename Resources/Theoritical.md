@@ -89,7 +89,7 @@ __The main idea of it is to encrypt text using multiple substitution alphabets t
 
 ## About Vigenère cipher
 
-__Algorithm is used to encrypt text by shifting letters using a keyword(key), creating a polyalphabetic substitution cipher that varies the shift for each letter based on the keyword...__
+__An algorithm is used to encrypt text by shifting letters using a keyword(key), creating a polyalphabetic substitution cipher that varies the shift for each letter based on the keyword...__
 
 > encryption mechanism...
 
