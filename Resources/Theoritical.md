@@ -8,9 +8,9 @@ __Computer Systems have a huge critical value for their owners. So, it became so
 
 - __threat__ :  Set of conditions that could use a vulnerability to cause loss or harm in a system.
 
-  => __Human-initiated__ : A human has ability to exploit a vulnerability.
+  => __human-initiated__ : A human has ability to exploit a vulnerability.
 
-  => __Computer-initiated__ : A program deny another from working correctly.
+  => __computer-initiated__ : A program deny another from working correctly.
 
 - __incident__ : Occurs when a threat exploits the vulnerability and causing harm.
 
