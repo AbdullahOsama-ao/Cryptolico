@@ -4,36 +4,36 @@ __Computer Systems have a huge critical value for their owners. So, it became so
 
 > Q1: Protection for/from what?
 
-- <u>vulnerabilities</u> :  A weakness in the system that could be exploited to cause a harm.
+- __vulnerabilities__ :  A weakness in the system that could be exploited to cause a harm.
 
-- <u>threat</u> :  Set of conditions that could use a vulnerability to cause loss or harm in a system.
+- __threat__ :  Set of conditions that could use a vulnerability to cause loss or harm in a system.
 
-  => <u>Human-initiated</u> : A human has ability to exploit a vulnerability.
+  => __Human-initiated__ : A human has ability to exploit a vulnerability.
 
-  => <u>Computer-initiated</u> : A program deny another from working correctly.
+  => __Computer-initiated__ : A program deny another from working correctly.
 
-- <u>incident</u> : Occurs when a threat exploits the vulnerability and causing harm.
+- __incident__ : Occurs when a threat exploits the vulnerability and causing harm.
 
-- <u>control</u> : Prevent threats from exercising vulnerabilities.
+- __control__ : Prevent threats from exercising vulnerabilities.
 
 > Q2: What's CIA-Triad?
 
-<u>(A system in CIA-Triad means that it achieves 3 rules...)</u>
+__A system in CIA-Triad means that it achieves 3 rules...)__
 
-1. <u>confidentiality</u> : Assets are viewed only by authorized users.
-2. <u>integrity</u> : Assets are modified only by authorized users.
-3. <u>availability</u> : Assets can be used/reached any time only by authorized users.
+1. __confidentiality__ : Assets are viewed only by authorized users.
+2. __integrity__ : Assets are modified only by authorized users.
+3. __availability__ : Assets can be used/reached any time only by authorized users.
 
-<u>(2 Rules are added if we dealing our system we protect is dealing with Networks...)</u>
+__(2 Rules are added if we dealing our system we protect is dealing with Networks...)__
 
-4. <u>authentication</u> : Confirm ID of a sender.
-5. <u>nonrepudiation(accountability)</u> : Confirm that the sender can't deny having sent something.
+4. __authentication__ : Confirm ID of a sender.
+5. __nonrepudiation(accountability)__ : Confirm that the sender can't deny having sent something.
 
 > Q3: What's major security tools used?
 
-- <u>identification (who)</u> : Verifying person uses the system.
-- <u>access-control (how)</u>  : Verifying he uses the system.
-- <u>encryption (what)</u> : Obstacle for unauthorized access.
+- __identification (who)__ : Verifying person uses the system.
+- __access-control (how)__  : Verifying he uses the system.
+- __encryption (what)__ : Obstacle for unauthorized access.
 
 ---
 
