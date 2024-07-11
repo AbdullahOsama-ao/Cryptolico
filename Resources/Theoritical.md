@@ -18,7 +18,7 @@ __Computer Systems have a huge critical value for their owners. So, it became so
 
 > Q2: What's CIA-Triad?
 
-__A system in CIA-Triad means that it achieves 3 rules...)__
+__(A system in CIA-Triad means that it achieves 3 rules...)__
 
 1. __confidentiality__ : Assets are viewed only by authorized users.
 2. __integrity__ : Assets are modified only by authorized users.
