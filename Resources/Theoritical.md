@@ -33,7 +33,7 @@ __Computer Systems have a huge critical value for their owners. So, it became so
 
 - <u>identification (who)</u> : Verifying person uses the system.
 - <u>access-control (how)</u>  : Verifying he uses the system.
-- **<u>encryption (what)</u>** : Obstacle for unauthorized access.
+- <u>encryption (what)</u> : Obstacle for unauthorized access.
 
 ---
 
