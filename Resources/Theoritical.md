@@ -2,7 +2,7 @@
 
 __Computer Systems have a huge critical value for their owners. So, it became so important to Computer Experts to find some manners to provide good protection for Systems & Data for setting them to be fit according to a concept called (CIA-Triad)...__
 
-> ### Q1: Protection for/from what?
+> #### Q1: Protection for/from what?
 
 - <u>vulnerabilities</u> :  A weakness in the system that could be exploited to cause a harm.
 
@@ -16,7 +16,7 @@ __Computer Systems have a huge critical value for their owners. So, it became so
 
 - <u>control</u> : Prevent threats from exercising vulnerabilities.
 
-> ### Q2: What's CIA-Triad?
+> #### Q2: What's CIA-Triad?
 
 <u>(A system in CIA-Triad means that achieves 3 rules...)</u>
 
@@ -29,7 +29,7 @@ __Computer Systems have a huge critical value for their owners. So, it became so
 4. <u>authentication</u> : Confirm ID of a sender.
 5. <u>nonrepudiation(accountability)</u> : Confirm that the sender can't deny having sent something.
 
-> ### Q3: What's major security tools used?
+> #### Q3: What's major security tools used?
 
 - <u>identification (who)</u> : Verifying person uses the system.
 - <u>access-control (how)</u>  : Verifying he uses the system.
