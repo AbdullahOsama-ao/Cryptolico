@@ -31,9 +31,9 @@ __(2 Rules are added if our system we protect is dealing with Networks...)__
 
 > Q3: What's major security tools used?
 
-- __identification (who)__ : Verifying person uses the system.
-- __access-control (how)__  : Verifying he uses the system.
-- __encryption (what)__ : Obstacle for unauthorized access.
+- __identification__ : Verifying (who) person uses the system.
+- __access-control__  : Verifying (how) he uses the system.
+- __encryption__ : Obstacle for (what) unauthorized access.
 
 ---
 
