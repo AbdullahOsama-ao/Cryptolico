@@ -19,4 +19,4 @@
 
 <h3><a href="/Resources/Theoritical.md" style="color: red;">Theoretical</a><h3>
 
-<h3><a href="/Resources/Technical.md" style="color: red;">Theoretical</a><h3>
+<h3><a href="/Resources/Technical.md" style="color: red;">Technical</a><h3>
