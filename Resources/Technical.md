@@ -14,14 +14,17 @@
 
 ### 3. Coloring Terminal Texts...
 
-**1. init(autoreset=true) :**
-=> Resets the terminal color to the default one after applicating each coloring process, (writing this line at begginning of the function make you don't have to manually reset it after each print statement).
+**=> init(autoreset=true) :**
 
-**2. Back.specific_color :**
-=> Detect the back-color of the text.
+- Resets the terminal color to the default one after applicating each coloring process, (writing this line at begginning of the function make you don't have to manually reset it after each print statement).
 
-**3. Fore.specific_color :**
-=> Detect the text color itself.
+**=> Back.specific_color :**
+
+- Detect the back-color of the text.
+
+**=> Fore.specific_color :**
+
+- Detect the text color itself.
 
 <img src="Images\3. Coloring Terminal Text.png" style="margin:0; width:450px; height:200px; background-color:red">
 
