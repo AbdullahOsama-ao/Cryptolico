@@ -61,3 +61,15 @@
 - It allows you to evaluate an expression and return one of two values based on a condition, (Note: all in a single line).
 
 ​	<img src="Images\4. Ternary Conditional Statement.png" style="margin:0; width:800px; height:110px; background-color:red">
+
+
+
+### `6. Algorithms Functions`
+
+**=> a_string.index(a_sub_string) :**
+
+- the output is (Integer Datatype) of (index) of the first occurrence of (the substring) inside the string.
+
+**=> len(a_string) :**
+
+- the output is (Integer Datatype) of the number of characters in this string.
