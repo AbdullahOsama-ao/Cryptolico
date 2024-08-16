@@ -26,7 +26,7 @@
 
 - Detect the text color itself.
 
-<img src="Images\\3. Coloring Terminal Text.png" style="margin:0; width:800px; height:110px; background-color:red">
+<img src="Images\\3. Coloring Terminal Text.png" style="margin:0; width:400px; height:100px; background-color:red">
 
 ### 4. The Path Handling Functions...
 
