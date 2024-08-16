@@ -56,7 +56,7 @@
 
 
 
-### Ternary Conditional Statement...
+### 5. Ternary Conditional Statement...
 
 - It allows you to evaluate an expression and return one of two values based on a condition, (Note: all in a single line).
 
