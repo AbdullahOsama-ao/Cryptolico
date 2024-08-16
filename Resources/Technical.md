@@ -14,18 +14,18 @@
 
 ### 3. Coloring Terminal Texts...
 
-```html
+```markdown
 
-<h4>1. init(autoreset=true) :<h4>
+**1. init(autoreset=true) :**
 => Resets the terminal color to the default one after applicating each coloring process, (writing this line at begginning of the function make you don't have to manually reset it after each print statement).
 
-<h4>2. Back.specific_color :<h4>
+**2. Back.specific_color :**
 => Detect the back-color of the text.
 
-<h4>3. Fore.specific_color :<h4>
+**3. Fore.specific_color :**
 => Detect the text color itself.
 
 
-<img src="Resources\Images\3. Coloring Terminal Text.png" style="margin:0; width:450px; height:200px; background-color:red">
+<img src="..\..\3. Coloring Terminal Text.png" style="margin:0; width:450px; height:200px; background-color:red">
 ```
 
