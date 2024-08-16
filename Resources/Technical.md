@@ -26,6 +26,6 @@
 => Detect the text color itself.
 
 
-<img src="Images\3. Coloring Terminal Text.png" style="margin:0; width:450px; height:200px; background-color:red">
+<img src="Resources\Images\3. Coloring Terminal Text.png" style="margin:0; width:450px; height:200px; background-color:red">
 ```
 
