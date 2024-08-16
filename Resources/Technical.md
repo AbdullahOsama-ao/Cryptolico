@@ -30,27 +30,27 @@
 
 ### 4. The Path Handling Functions...
 
-**=> strip("") : **
+**=> strip("") :**
 
 - removes what you write inside the double quotes a string.
 
-**=> isdir(a_file_path) : **
+**=> isdir(a_file_path) :**
 
 - check if [a_file_path] is (a directory path) in your PC or not, (Boolean Function).
 
-**=> listdir(a_path) : **
+**=> listdir(a_path) :**
 
 - the output is a (List Datatype) of all entries(files or sub-directories) inside (the directory path) you gave to [listdir function].
 
-**splitext(a_file_path) : **
+**splitext(a_file_path) :**
 
 - the output is a (Tuple Datatype), it splits a file path into (a file root or file path without the extension) & (a file extension including the dot).
 
-**=> join("a_string", "a_string") : **
+**=> join("a_string", "a_string") :**
 
 -  joins one or more path components into a single path, and automatically adding any necessary directory separators (`/` or `\`) between them.
 
-**=> isfile(a_path) : **
+**=> isfile(a_path) :**
 
 - (Boolean Output) represents if (the path) you gave to this function matches existing file in (this path) or not.
 
