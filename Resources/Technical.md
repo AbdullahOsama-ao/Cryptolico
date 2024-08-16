@@ -14,7 +14,7 @@
 
 ### 3. Coloring Terminal Texts...
 
-```python
+```markdown
 '''
 1. init(autoreset=true) :
 => Resets the terminal color to the default one after applicating each coloring process, (writing this line at begginning of the function make you don't have to manually reset it after each print statement).
