@@ -26,8 +26,6 @@
 => Detect the text color itself.
 '''
 
-def example_func():
-    init(autoreset=true)
-    print(Back.GREEN + Fore.WHITE + "example_text")
+<img src="Images\3. Coloring Terminal Text.png" style="margin:0; width:450px; height:200px; background-color:red">
 ```
 
