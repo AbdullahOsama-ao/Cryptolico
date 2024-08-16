@@ -6,13 +6,13 @@
 
 
 
-### 2. Read/Write in the files...
+### `2. Read/Write in the files...`
 
 <img src="Images\2. file handling.png" style="margin:0; width:450px; height:200px; background-color:red">
 
 
 
-### 3. Coloring Terminal Texts...
+### `3. Coloring Terminal Texts...`
 
 **=> init(autoreset=true) :**
 
@@ -28,7 +28,7 @@
 
 <img src="Images\\3. Coloring Terminal Text.png" style="margin:0; width:400px; height:100px; background-color:red">
 
-### 4. The Path Handling Functions...
+### `4. The Path Handling Functions...`
 
 **=> strip("") :**
 
@@ -56,7 +56,7 @@
 
 
 
-### 5. Ternary Conditional Statement...
+### `5. Ternary Conditional Statement...`
 
 - It allows you to evaluate an expression and return one of two values based on a condition, (Note: all in a single line).
 
