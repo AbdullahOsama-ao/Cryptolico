@@ -10,3 +10,24 @@
 
 <img src="Images\2. file handling.png" style="margin:0; width:450px; height:200px; background-color:red">
 
+
+
+### 3. Coloring Terminal Texts...
+
+```python
+'''
+1. init(autoreset=true) :
+=> Resets the terminal color to the default one after applicating each coloring process, (writing this line at begginning of the function make you don't have to manually reset it after each print statement).
+
+2. Back.specific_color :
+=> Detect the back-color of the text.
+
+3. Fore.specific_color : 
+=> Detect the text color itself.
+'''
+
+def example_func():
+    init(autoreset=true)
+    print(Back.GREEN + Fore.WHITE + "example_text")
+```
+
