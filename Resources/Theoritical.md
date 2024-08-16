@@ -24,16 +24,16 @@ __(A system in CIA-Triad means that it achieves 3 rules...)__
 2. __integrity__ : Assets are modified only by authorized users.
 3. __availability__ : Assets can be used/reached any time only by authorized users.
 
-__(2 Rules are added if we dealing our system we protect is dealing with Networks...)__
+__(2 Rules are added if our system we protect is dealing with Networks...)__
 
 4. __authentication__ : Confirm ID of a sender.
 5. __nonrepudiation(accountability)__ : Confirm that the sender can't deny having sent something.
 
 > Q3: What's major security tools used?
 
-- __identification (who)__ : Verifying person uses the system.
-- __access-control (how)__  : Verifying he uses the system.
-- __encryption (what)__ : Obstacle for unauthorized access.
+- __identification__ : Verifying (who) person uses the system.
+- __access-control__  : Verifying (how) he uses the system.
+- __encryption__ : Obstacle for (what) unauthorized access.
 
 ---
 
