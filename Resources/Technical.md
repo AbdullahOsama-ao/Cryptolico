@@ -48,7 +48,7 @@
 
 **=> join("a_string", "a_string") :**
 
--  joins one or more path components into a single path, and automatically adding any necessary directory separators (/ or \) between them.
+-  joins one or more path components into a single path, and automatically adding any necessary directory separators ( / or \ \) between them.
 
 **=> isfile(a_path) :**
 
